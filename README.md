@@ -1,6 +1,6 @@
 # nft-workshop
 
-1. Download Art Layers - https://tinyurl.com/nft-attributes
+1. Download Art Layers - https://tinyurl.com/
 
 2. Image Generation Script - https://github.com/hakeemullahjan/generative-art-nft
     - pip install Pillow pandas progressbar2
