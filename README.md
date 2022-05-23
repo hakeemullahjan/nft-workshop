@@ -3,7 +3,7 @@
 1. Download Art Layers - https://tinyurl.com/nft-attributes
 
 2. Image Generation Script - https://github.com/hakeemullahjan/generative-art-nft
-    pip install Pillow pandas progressbar2
+    - pip install Pillow pandas progressbar2
 
 3. IPFS upload - https://www.pinata.cloud/
 
