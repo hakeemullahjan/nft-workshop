@@ -11,7 +11,7 @@
 4. Metadata Generation
     - python metadata.py
 
-5. NFT Contract - https://github.com/thatguyintech/eth-dubai-nft-contract
+5. NFT Contract - 
 
-6. React App - https://github.com/thatguyintech/eth-dubai-dapp
+6. React App - 
 
