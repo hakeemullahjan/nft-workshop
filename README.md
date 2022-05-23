@@ -8,7 +8,8 @@
 
 3. IPFS upload - https://www.pinata.cloud/
 
-4. Metadata Generation - https://github.com/thatguyintech/eth-dubai-image-generator
+4. Metadata Generation
+    - python metadata.py
 
 5. NFT Contract - https://github.com/thatguyintech/eth-dubai-nft-contract
 
