@@ -2,7 +2,7 @@
 
 1. Download Art Layers - https://tinyurl.com/nft-attributes
 
-2. Image Generation Script - https://github.com/thatguyintech/eth-dubai-image-generator
+2. Image Generation Script - https://github.com/hakeemullahjan/generative-art-nft
 
 3. IPFS upload - https://www.pinata.cloud/
 
