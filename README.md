@@ -12,6 +12,7 @@
     - python metadata.py
 
 5. NFT Contract - 
+    - npx hardhat run scripts/deploy.js
 
 6. React App - 
 
