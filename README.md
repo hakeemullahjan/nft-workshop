@@ -13,5 +13,5 @@
 
 5. NFT Contract - https://github.com/hakeemullahjan/nft-contract
 
-6. React App - 
+6. React App - https://github.com/hakeemullahjan/nft-react-dapp
 
